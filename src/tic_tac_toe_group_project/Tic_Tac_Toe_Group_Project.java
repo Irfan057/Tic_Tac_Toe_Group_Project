@@ -9,12 +9,7 @@ package tic_tac_toe_group_project;
  * @author admin
  */
 public class Tic_Tac_Toe_Group_Project {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("game on");
     }
-    
 }
